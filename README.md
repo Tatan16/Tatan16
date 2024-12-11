@@ -12,4 +12,6 @@
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div><br/>
 
+Analista de dados
+Conhecimento em Aprendizado de Maquina
 Estudante de IA e programação, apaixonado pela tecnologia, inovação e apredizagem continuo.
